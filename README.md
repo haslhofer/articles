@@ -135,7 +135,7 @@ I still believe that a big reason my wife and I not only survived, but thrived h
 # 7 - Flawed assumptions
 This idea flashed in my mind today: What if I operate with fundamentally flawed assumptions? It felt like a good Saturday evening exercise to enumerate those I seem to have made in the past - not a bad thing to remind myself from time to time to avoid prior traps
 
-## Overstimating the cost of failure
+## Overestimating the cost of failure
 
 This might also be filed under "acting with fear". I was ripping out a floor all day today. When pulling out a nail with a hammer the nail somehow turned into a seemingly rocket propelled metal object and hit my forehead hard. So clearly the cost of failure in physical tasks is real (I'm glad it didn't hit my eye). But in my job I believe I generally overestimate the cost of taking risks as a knwoledge worker. What truly is the worst possible outcome when taking on a risky project apart from learning a good lesson?
 
