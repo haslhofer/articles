@@ -1,4 +1,4 @@
-# Managing time vs. energy
+# 1 - Managing time vs. energy
 It struck me like lightning when I finally discovered that *managing my time* was an ineffective way of looking at my work day. Discovering this 10 years earlier would have been nice...
 
 ## Managing Time
@@ -39,7 +39,7 @@ The difference it made is striking.
 
 What are your 20%?
 
-# Designing your life
+# 2 - Designing your life
 
 Wow - Twins - Surprise! So some years ago my wife and I decided that it was the right time to design and build a cabin for our family of now 5. 
 
@@ -77,7 +77,7 @@ Judge me if you will - I clearly don't excel at these dimensions all the time. T
 I consider writing my own mission statement as some of the highest leveraged hours I spent in my life. I encourage you to try it, too. And I stopped worrying about the tiles.
 
 
-# Managing your career is your responsibility
+# 3 - Managing your career is your responsibility
 One rainy day in Seattle I took inventory of how large my network was within Microsoft after working there for many years. It came up virtually empty. Oops.
 
 My conclusion was easy - my MANAGER clearly didn't do their job to expand my scope! My MANAGER had a far broader reach into the organization, so obviously it was THEIR job to open doors and help me. In hindsight it's almost comical how delusional, disconnected from reality I was even though I had so much faith in my own intellectual prowess. It's not them. Surprise, it's ME!
@@ -89,7 +89,7 @@ The image in my mind ("I'm doing well, progressing fast") was challenged by the 
 
 That day I made two big leaps - the first one connecting with a harsh reality. The second one me reaching out to a friendly, well-connected person in Microsoft with a simple request: can you please introduce me to like-minded people in Microsoft who love innovation and 'push the envelope'. Everything changed at that point - I got over my social passivity and started to meet what I personally consider some the brightest minds in tech - many of them on the same campus, in walking distance! Slowly, I got invited to conferences where those people meet. I started getting an outlet for my crazier ideas. 
 
-# Connecting
+# 4 - Connecting
 Our focus on connectivity detracts us from creating human connectedness.
 
 At work I championed a forum I called "My Story". The concept is simple - I offered 25 minutes on a recurring basis for ANYONE on my team (and beyond!) to talk about their life journey and how they - ultimately - ended up at Microsoft.
@@ -104,7 +104,7 @@ Exacerbated by the pandemic, I discovered an even more urgent need to create way
 
 What's your TRUE network like?
 
-# Explore Exploit
+# 5 - Explore Exploit
 Things you don't like don't help you find things you do like. It's a life lesson I learned as a 16 year old.
 
 My parents had a lively debate which summer job I should take. I was expected to earn money for at least a month. The options were either hard manual labor (working for an asphalt company) or an office job at the local steel mill. Their argument for manual labor was to teach me a life lesson. Show me what I (a pimple faced computer geek) would likely not survive and scare me off to become a "white-collar" worker down the road. The office job on the contrary to gain experience. Reason prevailed and my parents sent me to the steel mill office job. By then I already had more than half a decade of coding behind me, so I naturally flourished in what turned out to be a "computer job". That summer job unleashed a period of entrepreneurial spirit in me as a high-schooler. The asphalt job wouldn't have added any new signal.
@@ -117,7 +117,7 @@ Working my hard manual labor job would have offered me no further signal where t
 
 I see life as an orchestration of periods of exploration followed by periods of reaping the rewards of having found a good place, rinse-repeat. So I try to focus on things that either give me POSITIVE new signal (explore) or rewards (exploit). If I get neither, I'm likely wasting my energy, being just lazy.
 
-# Guard rail metrics of your life
+# 6 - Guard rail metrics of your life
 On a recent offsite a colleague and I started talking about how we manage the tradeoffs between office work and life at home and some of the life-hacks we were playing around with. We are both dealing with the stresses of cross-geo work so maintaining a predictable schedule is challenging.
 
 "I religiously track how often I get my kids to bed. And take action if it's fewer than 3 times a week" he said.
@@ -130,7 +130,7 @@ I realized I didn't have explicit guard rails for many of the areas that are imp
 
 I still believe that a big reason my wife and I not only survived, but thrived having three young children in diapers at the same time was that we had a guard rail metric that kept us grounded: how many dates did we go on during a month. It seemed like a big waste of money to pay for a baby sitter, having to pick them up and drop them off, only for both of us to fall asleep in a parking lot because we were so exhausted (didn't make it to the restaurant!). But I still believe these hard-won hours being a couple instead of parents made all the difference for us. We wouldn't let this guard rail metric of dates / month slide below a threshold. 
 
-# Flawed assumptions
+# 7 - Flawed assumptions
 This idea flashed in my mind today: What if I operate with fundamentally flawed assumptions? It felt like a good Saturday evening exercise to enumerate those I seem to have made in the past - not a bad thing to remind myself from time to time to avoid prior traps
 
 ## Overstimating the cost of failure
@@ -151,7 +151,7 @@ Life in school and at university was simple in the sense that there was an easy 
 What are your guard rail metrics for life? Do you track them? Do you enforce them? 
 I believe it's a powerful way to avoid drift you'll ultimately regret.
 
-# The joy of little things
+# 8 - The joy of little things
 
 We usually like to talk about the large but infrequent accomplishments in our jobs - promotions achieved, big projects completed. But I realize that I can find so much joy in the little things around my job every day:
 
@@ -175,10 +175,10 @@ Working with someone in another company whose best man at his wedding comes from
 
 What little things give you joy?
 
-# Circuit breakers
+# 9 - Circuit breakers
 For a recent business meeting I needed to "dress up" and decided to try on my wedding suit pants which I had purchased 14 years ago. The pants fit just fine. Keeping a healthy weight was always important to me - but I wasn't able to achieve it by sheer will power, but rather by setting up a system I called my "circuit breaker" where I defined an upper boundary at which I'd cut back a little for a few days. For the system to work, I needed to weigh myself consistently. I convinced myself that my weight would probably be lowest in the morning, so I conditioned myself to look at my weight first thing in the morning after I get up. So the system of "accessible scales, consistent weighing, circuit breaker" worked for me over the course of literally decades. 
 
-# One variable at a time
+# 10 - One variable at a time
 How do you successfully innovate - a hard won lesson of an innovator at heart.
 
 My simplest, most fundamental insight is "only change one variable at a time". This is a hard won lesson. It's based on multiple decades of experience driving innovative projects both in a start-up and large tech setting. It sounds trivial, but it's not. I'm an innovator at heart, and I discovered that it's so easy to get ahead of myself.
@@ -191,12 +191,12 @@ Failures: I faced the hardest challenge when going after a new customer use case
 
 Don't discard this as an "of course". The life blood of an innovator is to think boldly and not let the naysayers hold you back. Driving innovation rather than a backlog requires deep conviction and perseverance. But trust me that the lens of "# of variables changed" is worth consideration when you decide to embark on an exhilarating yet exhausting journey towards creating the next new thing.   
 
-# True North - doing the right thing
+# 11 - True North - doing the right thing
 Doing the right thing is rarely easy, but always worth it.
 
 "Taking the shortcut is cheating" my 9-year old son vehemently postulated while we were having dinner at the Refugio Bruto Carestiato on our 110km long-distance hike through the Italian Dolomites. Our family of five had completed day 6 out of 8 of hut-to-hut hiking on the breathtaking classic Alta Via 1 trail. My wife and I had decided to cut a few miles out of our final full day. 20km of hiking through steep Alpine terrain, including some scrambling to cross Cime de Zita seemed to be just too much. "We came here to do the full trek, and if we take the short-cut we'll never be able to say we actually completed it" my son continued his forceful argument. Our legs were hurting, our backs were aching, I was hesitant to change plans. But he was right that 'True North' is rarely easy, but always worth it. After all of our kids agreed, we cancelled the taxi that night, packed extra water and snacks, and finished the 10hr final leg of the trail tired but proud that we did the right thing - it wasn't easy, but so worth it. A great 'reverse mentoring' lesson from son to father, no doubt.
 
-# Power of toolkit
+# 12 - Power of toolkit
 One of my fond childhood memories is about my dad stashing his travel per diems away in an envelope and then using the money (once there was enough of it!) to buy the best tools he could find for his DIY projects at home. Over the years he enabled himself to weld staircases, restore a 100 year old house, and build his own sauna. 
 
 His golden rule "a job done right needs the right tools" stuck with me. His collection and command of a wide array of tools in a pre-YouTube world still dazzles my mind today even though my dad passed away 8 years ago. 
@@ -205,7 +205,7 @@ While I don't own a 'Werkstatt' (shop) with physical tools as he did, I learned 
 
 Consciously, consistently investing energy and time in your toolkit is one of the most powerful professional enablers I can point to. 
 
-# A better reading diet
+# 13 - A better reading diet
 I'm putting myself on a reading diet after discovering that my social media and programmed feed consumption again has taken more space in my life than it deserves. Like any diet, success is predicated on two things happening in parallel - healthy (brain) food and healthy reading habits. 
 
 ** Healthy (brain) food. At least for me, the more accessible content is generally lower quality. While there's a gem or two in my programmatic feeds from time to time, most of the articles I read have catchy titles but ultimately don't really teach me anything worth learning. Just like filling up a fridge with healthy choices and locking the unhealthy choices away, I'm lining up a weekly pipeline of high-quality content that's easily accessible. High-quality defined as peer-reviewed, long-form content, books, seminal articles, thought pieces recommended by people I trust. My north-star goal is to occupy at least 80% of my time spent reading related to my job, core professional and personal passions to foster true learning rather then reinforcing existing beliefs or skills. 
@@ -216,7 +216,7 @@ A little side story: a while ago a few like-minded friends at Microsoft (across 
 
 While the first days of any diet are painful, my mind now feels reinvigorated, lighter, more curious, more inspired by the diversity of thinking that has become so accessible with today's technology if used the right way.
 
-# Hard things
+# 14 - Hard things
 Standing in the parking lot with three babies in diapers, we had a decision to make: turn around in the face of unexpected snow, or persevere in the face of adversity. We had hoped for a fun hike up in the Cascades, and spent all morning packing gear and supplies - a Chariot double 'stroller' with large wheels and hiking attachment for our new-born twins (for me to pull pioneer style), a heavy backpack for my wife Rachel to carry Sophia,the older baby, pacifiers, milk, all sorts of supplies essential for babies. 
 
 We reminded ourselves that it's better to be 100% consistent with our values than 99% of time. 
@@ -227,7 +227,7 @@ There's a hard thing about hard things.
 
 Last week we completed our second family long-distance hike through the Dolomites in Italy. I look back almost 10 years since we pulled our kids through the snow and I'm grateful we decided to keep walking.
 
-# Contrarian assumptions
+# 15 - Contrarian assumptions
 If you treat your career like a diversified stock portfolio, the best you can hope for is the average return of the market. It pays off if you sometimes break the rules. 
 
 Reflecting on many years of working in highly competitive environments (strategy consulting, start-up, large tech) I realize that my biggest successes have come out of contrarian bets - when I was willing to break unwritten rules, make a contrarian bet, and act trusting that asking for forgiveness would be easier than asking for permission. And my biggest regrets are projects I asked for permission too early, and then was mired in justifying what I wanted to do rather than what I had done, and justifying instead of doing. 
@@ -238,7 +238,7 @@ If you stick to the rules you're right to expect - long-term - good results some
 
 Don't get me wrong - just betting on something contrarian without some unique insight will still be like throwing darts at a board blindly. But worrying less about the world and breaking rules when you have conviction will work wonders. Try it.
 
-# Life is not a zero sum game
+# 16 - Life is not a zero sum game
 Remember, life is not a zero sum game. If it was, we'd still be sitting in caves. But too often this simple truth gets lost during working hours. 
 
 Funding projects has gotten more challenging. Employees are on the edge. It's easy to suddenly see requests for help from other teams as an "either or". You win or I win. This puts me in a "fight a battle" rather than a "how do we create the most surplus value together" mindset. I remind myself the whole point of work is to make the pie bigger, rather than get a larger slice of a shrinking one. Creation as opposed to redistribution.
@@ -247,7 +247,7 @@ I found it powerful in any work situation to ask the question of "How do we make
 
 It starts with simple things like doing walking 1:1s outside on a sunny day - a chance to enjoy a gorgeous summer while having a productive discussion and getting stuff done. Surplus, not an either-or.
 
-# My job doesn't give me enough opportunity to learn
+# 17 - My job doesn't give me enough opportunity to learn
 At Microsoft, like in so many other companies, we have employee listening systems. One area I keep struggling with as a manager in high-tech is around feedback on "lack of learning opportunities". I hear this in 1:1 conversations, and it's recurring theme.
 
 Usually, the rationalization is either time ("we're all too busy shipping that we don't get time to learn"), resources ("alack of learning resources"), or job content ("my job ha no learning opportunities"). Talking to other managers anecdotal evidence suggests this problem is pervasive. 
@@ -271,7 +271,7 @@ I have to admit that I've rarely if ever found the 'official' corporate training
 
 Writing this post motivated me to fix the carburetor of our lawn mower that had stopped working - a task I had procrastinated on far too long. It was a fascinating to learn what a carburetor does in the first place. 
 
-# Compounding effect of opportunity
+# 18 - Compounding effect of opportunity
 The compounding effect of opportunity and stepping out of your comfort zone
 
 As a 12 year old boy I participated in an international children's summer camp in the Netherlands for four weeks. It was by far the largest step outside of my comfort zone. Spending 4 weeks in a foreign country without my parents, traveling with only three other Austrian boys and girls and a young guide by train across Europe, and then staying 4 weeks with kids from literally all over the world in a camp and with host families on the weekends. Most of us barely spoke English. I had never traveled without my parents. 
@@ -286,10 +286,10 @@ In previous posts I've focused on the importance of learning and building skills
 
 These four weeks abroad as a kid literally opened so many doors and drastically changed the course of my adult life - but it required me to step "outside" and overcome the fear of the unknown.
 
-# Daily gratitude
+# 19 - Daily gratitude
 Virtually every morning, for many many years now, I take a yellow post-it-note and write a few lines of gratitude to my wife. Before I walk to work (I live close to my office) I stick the note to a place where I know she'll find it. Sometimes on the kitchen counter, sometimes on top of her coffee cup in the car. This has had an outsized effect on my life - it reminds me every day how lucky I am to have her; how much there is to be happy about in our past; how much I have to look forward to for our future adventures; or just saying thank you for simple mundane things like her purchasing that pair of jeans for me. It's 5 minutes every day where I get to focus on the things and the person that ultimately matters most in the grand scheme of things.
 
-# What's the worst that could happen?
+# 20 - What's the worst that could happen?
 Every day I participate in a myriad of "review meetings". Many of them - to my great excitement - have turned to document format which drives more clarity than endless presentations. Still, many of these reviews don't go well - clearly answering two simple questions would have made all the difference:
 
 1) What goal are you REALLY trying to achieve?
