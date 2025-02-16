@@ -215,3 +215,14 @@ A little side story: a while ago a few like-minded friends at Microsoft (across 
 ** Healthy habits. Reinforced by the mechanics of the attention economy the hardest part of my reading diet is to break the cycle of my habitual feed scrolling. While moving feeds to less prominent places on my cell phone is helping a little, I achieve better results by so called 'habit stacking'. I like reading before I go to sleep, so I reprogrammed my habit of feed scrolling to "read at least one page of my high-quality content queue". Of course once I read one page, I read many, and it's been the most stable way to change behavior for me.
 
 While the first days of any diet are painful, my mind now feels reinvigorated, lighter, more curious, more inspired by the diversity of thinking that has become so accessible with today's technology if used the right way.
+
+# Hard things
+Standing in the parking lot with three babies in diapers, we had a decision to make: turn around in the face of unexpected snow, or persevere in the face of adversity. We had hoped for a fun hike up in the Cascades, and spent all morning packing gear and supplies - a Chariot double 'stroller' with large wheels and hiking attachment for our new-born twins (for me to pull pioneer style), a heavy backpack for my wife Rachel to carry Sophia,the older baby, pacifiers, milk, all sorts of supplies essential for babies. 
+
+We reminded ourselves that it's better to be 100% consistent with our values than 99% of time. 
+
+We envisioned our family to be active explorers of the world, with a love for the outdoors, mountains, rivers, the beauty of our planet. We also intuitively understood that unless we invested in the long-term, consistently, that we wouldn't be able to realize this vision. 
+
+There's a hard thing about hard things.
+
+Last week we completed our second family long-distance hike through the Dolomites in Italy. I look back almost 10 years since we pulled our kids through the snow and I'm grateful we decided to keep walking.
