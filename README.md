@@ -130,5 +130,23 @@ I realized I didn't have explicit guard rails for many of the areas that are imp
 
 I still believe that a big reason my wife and I not only survived, but thrived having three young children in diapers at the same time was that we had a guard rail metric that kept us grounded: how many dates did we go on during a month. It seemed like a big waste of money to pay for a baby sitter, having to pick them up and drop them off, only for both of us to fall asleep in a parking lot because we were so exhausted (didn't make it to the restaurant!). But I still believe these hard-won hours being a couple instead of parents made all the difference for us. We wouldn't let this guard rail metric of dates / month slide below a threshold. 
 
+# Flawed assumptions
+This idea flashed in my mind today: What if I operate with fundamentally flawed assumptions? It felt like a good Saturday evening exercise to enumerate those I seem to have made in the past - not a bad thing to remind myself from time to time to avoid prior traps
+
+## Overstimating the cost of failure
+
+This might also be filed under "acting with fear". I was ripping out a floor all day today. When pulling out a nail with a hammer the nail somehow turned into a seemingly rocket propelled metal object and hit my forehead hard. So clearly the cost of failure in physical tasks is real (I'm glad it didn't hit my eye). But in my job I believe I generally overestimate the cost of taking risks as a knwoledge worker. What truly is the worst possible outcome when taking on a risky project apart from learning a good lesson?
+
+## Assuming best intent instead of rational intent
+
+One of the smartest people I've worked with at Microsoft taught me a valuable lesson a few months ago. I asserted that clearly person X in team Y was acting with best intent. "Don't assume good intent, assume rational intent" my colleage said. It's a pretty fundamentally flawed assumption I've made for decades. Probably worth an article on its own.
+
+## A singular success criterion instead of a balanced scorecard
+
+I do believe that a life well lived is one that achieved success across many dimensions. So it just doesn't make sense to pick only one measure to assess one's progression as life evolves (whether it's money, title, fame, ...). It struck me in career discussions with colleagues over the years that a signluar focus on "will this job help me get promoted" leaves so much to be desired rather than looking at the opportunities a job offers to grow along many other dimensions.    
+![Flaws](/media/assumption.jpg)
+
+## Assumption of linearity rather than looking for pivots
+Life in school and at university was simple in the sense that there was an easy measure of progress - better grades, more degrees. Interestingly, in hindsight I believe this cultivates a degree of risk aversion that works against having a rich set of life experiences - conceptually all I had to do is follow a linear path. But reflecting on my journey the most enduring sources of progress came from pivots in my life - starting a company when friends were progressing in stable jobs; moving across continents; taking a job aligned with my passions rather than optimizing for scope.  
 What are your guard rail metrics for life? Do you track them? Do you enforce them? 
 I believe it's a powerful way to avoid drift you'll ultimately regret.
